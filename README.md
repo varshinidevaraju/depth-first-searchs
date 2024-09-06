@@ -91,7 +91,8 @@ F H <BR>
 <hr>
 <h3>Program:</h3>
 <hr>
-```
+
+``````
 Depth First Search uses STACK AND RECURSION
 
 #import defaultdict
@@ -118,7 +119,8 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
-```
+``````
+
 <hr>
 <h3>Result:</h3>
 <hr>
